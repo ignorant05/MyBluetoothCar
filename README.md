@@ -2,6 +2,10 @@
 
 This repository contains the code for controlling an ESP32-based robotic car using the Dabble mobile application via Bluetooth. The car has functionalities for motor control and servo-based steering.
 
+## Pictures 
+
+You can find 5 views phots and an mp4 vid to show you what the result looks like (take it as a reference).
+
 ## Features
 
 - Control the car's movement (forward, backward) using the Dabble Gamepad module.
@@ -13,19 +17,19 @@ This repository contains the code for controlling an ESP32-based robotic car usi
 ## Hardware Requirements
 - Car chasis (i used lego)
 
-- ESP32 board (i used ESP32 WROOM 32U with external antenna)
+- ESP32 board (i used ESP32 WROOM 32U with external antenna).
 
-- Motor driver module (i used l298n)
+- Motor driver module (i used l298n).
 
-- 1 DC motor (or more if you like but make sure to adjust the code)
+- 1 DC motor (or more if you like but make sure to adjust the code).
 
-- Servo motor (for steering)
+- Servo motor (for steering).
 
-- Battery pack (i used 4 AA battery pack)
+- Battery pack (i used 4 AA battery pack).
 
-- Switch button (used to set the car ON/OFF)
+- Switch button (used to set the car ON/OFF).
 
-- Bluetooth-enabled smartphone with the Dabble app
+- Bluetooth-enabled smartphone with the Dabble app.
 
 ## Software Requirements
 
