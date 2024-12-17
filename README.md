@@ -15,6 +15,7 @@ You can find 5 views phots and an mp4 vid to show you what the result looks like
 - Smooth motor speed control using PWM.
 
 ## Hardware Requirements
+
 - Car chasis (i used lego)
 
 - ESP32 board (i used ESP32 WROOM 32U with external antenna).
@@ -28,6 +29,8 @@ You can find 5 views phots and an mp4 vid to show you what the result looks like
 - Battery pack (i used 4 AA battery pack).
 
 - Switch button (used to set the car ON/OFF).
+
+- Mini Bread Board.
 
 - Bluetooth-enabled smartphone with the Dabble app.
 
