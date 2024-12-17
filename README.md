@@ -11,16 +11,19 @@ This repository contains the code for controlling an ESP32-based robotic car usi
 - Smooth motor speed control using PWM.
 
 ## Hardware Requirements
+- Car chasis (i used lego)
 
-- ESP32 board
+- ESP32 board (i used ESP32 WROOM 32U with external antenna)
 
-- Motor driver module
+- Motor driver module (i used l298n)
 
-- DC motors (for wheels)
+- 1 DC motor (or more if you like but make sure to adjust the code)
 
 - Servo motor (for steering)
 
-- Battery pack
+- Battery pack (i used 4 AA battery pack)
+
+- Switch button (used to set the car ON/OFF)
 
 - Bluetooth-enabled smartphone with the Dabble app
 
