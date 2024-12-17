@@ -4,7 +4,7 @@ This repository contains the code for controlling an ESP32-based robotic car usi
 
 ## Pictures 
 
-You can find 5 views phots and an mp4 vid to show you what the result looks like (take it as a reference).
+You can find 5 views phots and an mp4 vid to show you what the result looks like (take it as a reference) in the pictures folder in this repo.
 
 ## Features
 
