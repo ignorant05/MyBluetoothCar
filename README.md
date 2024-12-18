@@ -104,7 +104,7 @@ You can find 5 views phots and an mp4 vid to show you what the result looks like
 1. Clone this repository:
    
    ```
-   git clone https://github.com/yourusername/MyBluetoothCar.git
+   git clone https://github.com/ignorant05/MyBluetoothCar.git
    ```
 
 2. Open the code in PlatformIO IDE.
